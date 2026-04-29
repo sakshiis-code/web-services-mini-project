@@ -75,4 +75,4 @@ py mini_project.py
 ```
 
 Server:
-http://localhost:5000
+https://student-rest-api-pa55.onrender.com
